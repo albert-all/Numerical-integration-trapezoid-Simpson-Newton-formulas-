@@ -1,0 +1,10 @@
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\bin\Debug\computationalMath2.exe.config
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\bin\Debug\computationalMath2.exe
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\bin\Debug\computationalMath2.pdb
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.Form1.resources
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.Properties.Resources.resources
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.exe
+C:\Users\alber\source\repos\computationalMath2\computationalMath2\obj\Debug\computationalMath2.pdb
